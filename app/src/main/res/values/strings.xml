@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AplicacionGeneral</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="tipo_divisa">
+        <item>Soles (S/.) a Dolares ($)</item>
+        <item>Dolares ($) a Soles (S/.)</item>
+    </string-array>
+</resources>
